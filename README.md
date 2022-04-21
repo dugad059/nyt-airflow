@@ -10,6 +10,20 @@ An Airflow ETL pipeline that extracts data from NYT's API using Alirflow’s HTT
 * AWS S3
 * New Your Times API
 
+## Screenshots
+
+Airflow Home Page
+![](img/airflow_home.png)
+
+API DAG
+![](img/api_dag.png)
+
+S3 DAG
+![](img/s3_dag.png)
+
+AWS S3
+![](img/aws_s3.png)
+
 
 ## Future Enhancements
 
